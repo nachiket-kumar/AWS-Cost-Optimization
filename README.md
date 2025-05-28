@@ -29,7 +29,7 @@ It uses:
 - **✅ CI/CD**: GitHub Actions
 - **🔐 DevSecOps**: AWS Inspector + GuardDuty + Trivy
 - **🛠️ Infrastructure as Code**: Terraform
-- **📁 Modular structure** with tests, scripts, and automation
+- **📁 Modular structure** with tests, scripts, and automation.
 
 ---
 
